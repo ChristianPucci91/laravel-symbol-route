@@ -10,17 +10,13 @@
 
     <div class="container">
 
-      <header>
-        HEADER
-      </header>
+      @include ('components.header')
 
       <main>
        @yield('content')
       </main>
 
-      <footer>
-        FOOTER
-      </footer>
+      @include ('components.footer')
 
     </div>
 
