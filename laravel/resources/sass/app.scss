@@ -2,7 +2,15 @@ header {
   background-color: red;
 }
 main {
-  background-color: lightblue;
+  .home {
+    background-color: lightblue;
+  }
+  .blog {
+    background-color: yellow;
+  }
+  .about {
+    background-color: pink;
+  }
 }
 footer {
   background-color: lightgreen;
