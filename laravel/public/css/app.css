@@ -1,0 +1,21 @@
+header {
+  background-color: red;
+}
+
+main {
+  background-color: lightblue;
+}
+
+footer {
+  background-color: lightgreen;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+a:hover {
+  color: blue;
+}
+
