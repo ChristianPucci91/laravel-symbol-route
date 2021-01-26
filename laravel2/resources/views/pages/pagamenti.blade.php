@@ -28,4 +28,9 @@
 
 @endforeach
 
+{{--
+   1.Per ogni elemento dell'array andrò a stampare tutti i suoi dati
+   2.Se l'elemento in loop al momento è paro aggiungerò la classe green altrimenti aggiunge la classe red
+--}}
+
 @endsection
