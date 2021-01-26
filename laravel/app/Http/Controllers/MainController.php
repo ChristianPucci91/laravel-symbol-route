@@ -10,7 +10,8 @@ class MainController extends Controller
     $data = array(
 
          ['name' => 'Marco'],
-         ['name' => 'Samuel']
+         ['name' => 'Samuel',
+         'img' => 'https://images-na.ssl-images-amazon.com/images/I/51pG5REYl+L._SX378_BO1,204,203,200_.jpg']
 
        );
        // test di array con foreach & if

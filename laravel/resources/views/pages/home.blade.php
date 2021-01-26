@@ -19,6 +19,7 @@
     @else
 
       <h3>Page's Moderator: {{ $name['name'] }}</h3>
+      <img src="{{ $name['img']}}" alt="">
 
     @endif
 
