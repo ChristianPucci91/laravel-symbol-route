@@ -2,5 +2,37 @@
   margin:0;
   padding: 0;
   box-sizing: border-box;
-  background: lightblue;
+}
+
+header {
+  background: yellow;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+}
+main {
+  h1 {
+    text-align: center;
+    margin:20px;
+  }
+  .pagamenti {
+    background: lightblue;
+    border:1px solid black;
+    display: inline-block;
+    margin:20px;
+    padding: 20px;
+  }
+  .red {
+    background: red;
+  }
+  .green {
+    background: green;
+  }
+}
+
+footer {
+  background: blue;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
 }
